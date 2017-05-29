@@ -15,7 +15,7 @@ git clone https://github.com/msand/estructor
 cd estructor
 lerna bootstrap
 ```
-Read /packages/este/README.md
+Read [/packages/este/README.md](https://github.com/msand/estructor/blob/master/packages/este/README.md)
 
 **Development** 
 
